@@ -28,7 +28,7 @@ This project features a fully interactive sales dashboard created in Microsoft E
 - Basic Data Cleaning
 
 ---
-## 📘 Learning Outcomes
+## Learning Outcomes
 
 - Applied Excel for real-world dashboard design  
 - Learned how to use PivotTables, PivotCharts, and slicers effectively  
@@ -46,6 +46,6 @@ This project simulates how business analysts or operations teams in a retail or 
 - Understand seasonal trends in AOV and order volume  
 - Make informed, data-backed decisions quickl
 
-## 📚 About
+##  About
 
 This dashboard is a personal project created to demonstrate how Excel can be used to build professional, interactive dashboards for sales analysis and business decision-making.
