@@ -17,8 +17,7 @@ This project features a fully interactive sales dashboard created in Microsoft E
 ---
 
 ##  Dashboard Preview
-
-![Blinkit Dashboard](dashboard.png)
+- <a href="https://www.dropbox.com/scl/fi/5qmdtsivgpo3ujre1srwl/Screenshot-2025-08-03-at-8.50.43-AM.pdf?rlkey=nh2jcmfy3a7jdot7874ph8k7p&st=05xpezp8&dl=0">Dashboard</a>
 
 ---
 
