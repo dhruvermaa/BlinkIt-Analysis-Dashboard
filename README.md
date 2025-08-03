@@ -30,6 +30,23 @@ This project features a fully interactive sales dashboard created in Microsoft E
 - Basic Data Cleaning
 
 ---
+## 📘 Learning Outcomes
+
+- Applied Excel for real-world dashboard design  
+- Learned how to use PivotTables, PivotCharts, and slicers effectively  
+- Focused on layout, visual storytelling, and data usability  
+- Developed a reusable template for business reporting
+
+---
+
+## Use Case
+
+This project simulates how business analysts or operations teams in a retail or quick-commerce company like Blinkit can use Excel dashboards to:
+
+- Track real-time sales performance  
+- Identify high-performing regions or products  
+- Understand seasonal trends in AOV and order volume  
+- Make informed, data-backed decisions quickl
 
 ## 📚 About
 
